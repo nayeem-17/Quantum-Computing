@@ -10,6 +10,6 @@ To run this on real IBM device, replace the value of `IBM_TOKEN` to your IBM acc
 
 ![simulation result](simu.png)
 
-## The result from 5 bit IBM quantum computer
+## The result from 5 qubit IBM quantum computer
 
 ![realqc result](rqc.png)
