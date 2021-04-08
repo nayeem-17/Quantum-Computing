@@ -81,10 +81,12 @@ pytz==2021.1
 pyzmq==22.0.3
 qiskit==0.24.1
 qiskit-aer==0.7.6
+qiskit-aer-gpu==0.7.6
 qiskit-aqua==0.8.2
 qiskit-ibmq-provider==0.12.2
 qiskit-ignis==0.5.2
 qiskit-terra==0.16.4
+qiskit-textbook @ git+https://github.com/qiskit-community/qiskit-textbook.git@f75fd5aeca3949901d47867666b5cde31ccc0e4b#subdirectory=qiskit-textbook-src
 Quandl==3.6.1
 requests==2.25.1
 requests-ntlm==1.1.0
