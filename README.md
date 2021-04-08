@@ -2,7 +2,7 @@
 ## To use this repo
 
 First, clone this repo.
-Then create a  `python virtual enviornment` 
+Then create a  `python virtual environment 
 ```
 python3 -m venv NAME_OF_YOUR_VENV
 ```
