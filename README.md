@@ -22,5 +22,4 @@ pip install -r requirement.txt
 ```
 Now, you can run the files in your jupyter-notebook
 
-Testing 1,2 3
 ## [Resources](./RESOURCES.md)
